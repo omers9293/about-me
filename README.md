@@ -6,7 +6,7 @@
 
 ### Email: [omers9293@hstat.org](https://mail.google.com/)
 
-### Schedule
+### _Schedule_
 1. **SEP**
 2. Algebra
 3. BHP
@@ -18,3 +18,5 @@
 
 ### Random
 * This is random
+
+### Review by Daniel Kovacs
